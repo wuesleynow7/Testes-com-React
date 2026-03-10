@@ -2,7 +2,7 @@
 
 Este repositório contém exemplos de testes utilizando a biblioteca React Testing Library. Os testes são escritos para componentes React e visam garantir que a aplicação funcione corretamente, verificando a renderização, interações e comportamento dos componentes.
 
-# criando um componente 
+# Comando usado para criar um projeto básico com Vite e React para treinar os testes
 
 ```bash
 npm create vite@latest meu-projeto --template react
