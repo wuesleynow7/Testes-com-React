@@ -127,3 +127,7 @@ TDD, é uma metodologia em que os testes vao orientaram como vamos desenvolver o
 - Detecção precoce de bugs: O TDD permite que os desenvolvedores detectem e corrijam bugs mais cedo no processo de desenvolvimento, o que pode reduzir o custo e o tempo de correção de bugs.
 - Melhoria da colaboração: O TDD pode melhorar a colaboração entre desenvolvedores, testadores e outros membros da equipe, pois os testes servem como documentação viva do comportamento esperado do software, facilitando a comunicação e o entendimento entre os membros da equipe.
 - Desenvolvimento orientado a requisitos: O TDD ajuda a garantir que o desenvolvimento seja orientado a requisitos, pois os testes são escritos com base nos requisitos do software, garantindo que o código seja desenvolvido para atender às necessidades do usuário e aos requisitos do projeto. 
+
+## 📌 Status do projeto
+
+🚧 Em desenvolvimento 🚧
